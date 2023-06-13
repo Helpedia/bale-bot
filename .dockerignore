@@ -1,0 +1,20 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.docker
+
+# Python
+bale_bot/__pycache__/
+bale_bot/*/__pycache__/
+bale_bot/*/*/__pycache__/
+bale_bot/*/*/*/__pycache__/
+bale_bot/local_settings.py
+local_settings.py
+.env/
+.venv/
+venv/
+
+# Local PostgreSQL data
+data/
